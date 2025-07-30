@@ -9,9 +9,13 @@ Für diese Sorten liegen bereits **ausreichend** Bilder vor. Weitere Bilder dies
 - Auralia <img src="./images/icon_green.png" width="15" height="15">
 - Baumanns Renette <img src="./images/icon_green.png" width="15" height="15">
 - Goldrenette Freiherr von Berlepsch <img src="./images/icon_green.png" width="15" height="15">
+- Berner Rosenapfel <img src="./images/icon_yellow.png" width="15" height="15">
+- Bittenfelder Sämling <img src="./images/icon_yellow.png" width="15" height="15">
+- Goldrenette von Blenheim <img src="./images/icon_yellow.png" width="15" height="15">
 - Brettacher <img src="./images/icon_green.png" width="15" height="15">
 - Carola <img src="./images/icon_yellow.png" width="15" height="15">
-- Charlamovsky	<img src="./images/icon_yellow.png" width="15" height="15">	
+- Charlamovsky <img src="./images/icon_yellow.png" width="15" height="15">
+- Clivia <img src="./images/icon_yellow.png" width="15" height="15">
 - Damason Renette <img src="./images/icon_green.png" width="15" height="15">
 - Danziger Kantapfel <img src="./images/icon_green.png" width="15" height="15">
 - Dülmener Rosenapfel <img src="./images/icon_green.png" width="15" height="15">
@@ -19,7 +23,9 @@ Für diese Sorten liegen bereits **ausreichend** Bilder vor. Weitere Bilder dies
 - Gasconyes Scharlachroter <img src="./images/icon_green.png" width="15" height="15">
 - Gelber Bellefleur <img src="./images/icon_green.png" width="15" height="15">
 - Gelber Richard <img src="./images/icon_green.png" width="15" height="15">
+- Gewürzluike <img src="./images/icon_yellow.png" width="15" height="15">
 - Gloster <img src="./images/icon_green.png" width="15" height="15">
+- Golden Delicious <img src="./images/icon_yellow.png" width="15" height="15">
 - Goldparmäne <img src="./images/icon_green.png" width="15" height="15">
 - Helios <img src="./images/icon_green.png" width="15" height="15">
 - Ingrid Marie <img src="./images/icon_yellow.png" width="15" height="15">
@@ -37,10 +43,23 @@ Für diese Sorten liegen bereits **ausreichend** Bilder vor. Weitere Bilder dies
 - Rebella <img src="./images/icon_green.png" width="15" height="15">
 - Rheinischer Bohnapfel <img src="./images/icon_green.png" width="15" height="15">
 - Riesenboiken <img src="./images/icon_green.png" width="15" height="15">
+- Roter Astrachan <img src="./images/icon_yellow.png" width="15" height="15">
 - Rote Sternrenette <img src="./images/icon_yellow.png" width="15" height="15">
-- Schöner aus Herrnhut <img src="./images/icon_green.png" width="15" height="15">
 - Schöner aus Boskoop <img src="./images/icon_yellow.png" width="15" height="15">
+- Schöner aus Herrnhut <img src="./images/icon_green.png" width="15" height="15">
+- Schöner aus Nordhausen <img src="./images/icon_yellow.png" width="15" height="15">
 - Spartan <img src="./images/icon_yellow.png" width="15" height="15">
+- Suislepper <img src="./images/icon_yellow.png" width="15" height="15">
 - Weißer Winterglockenapfel <img src="./images/icon_green.png" width="15" height="15">
+- Weißer Winterkalvill <img src="./images/icon_yellow.png" width="15" height="15">
 
-Stand: 24-06-30
+Stand: 25-07-30
+
+Danke an alle die mit Bildern unterstütz haben:
+- Björn
+- Guntram
+- Manfred
+- Martin
+- Robert
+- Tobias
+
