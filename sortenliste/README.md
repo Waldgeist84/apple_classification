@@ -55,6 +55,9 @@ Für diese Sorten liegen bereits **ausreichend** Bilder vor. Weitere Bilder dies
 
 Stand: 25-07-30
 
+Neue Sorten 2024: 116
+
+
 Danke an alle die mit Bildern unterstütz haben:
 - Björn
 - Guntram
