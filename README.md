@@ -16,6 +16,10 @@ Alle anderen Sorten sind interessant.
 Wer Bilder der genannten Sorten beitragen möchte, hält bitte vorab Rücksprache.     
 
 Mehr Details finden sich im [Newsletter von Hochstamm e.V.](https://www.hochstamm-deutschland.de/nachricht/apfelsorten-per-app-erkennen-wird-es-das-geben) und in den wissenschaftlichen Veröffentichungen zum Projekt:
-
+ 
 - [A Case Study toward Apple Cultivar Classification Using Deep Learning](https://www.mdpi.com/2624-7402/5/2/50)
 - [Enhancing Apple Cultivar Classification Using Multiview Images](https://www.mdpi.com/2313-433X/10/4/94)
+
+Außerdem gibt es hier einen aktuellen Vortrag bei den Mitteleuropäischen Pomologentagen in Bad Muskau:
+
+- [Erfahrungen mit dem Einsatz von KI zur Sortenbestimmung von Äpfeln](https://www.lanu.de/veranstaltung/mitteleuropaeische-pomologentage-2026-fachtagung/2026-09-27/eid/Mjk3NQ==) 
